@@ -1,5 +1,7 @@
 # spm - scala package manager
 
+NOTE: This fork is essentially reimplementing the functionality of the original, but written in Scala and not Bash.
+
 <p align="center"><a href="http://showterm.io/1f5283d1b09d33d6da1a8"><img src="http://i.imgur.com/terVLiN.gif"/></a></p>
 
 # Setup
